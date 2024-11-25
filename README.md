@@ -1,3 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rKbf-r4Q)
 # P5-empty-project
-This repository is the starting point of the assignments given in the course [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
+Ogni fiume è rappresentato tramite una linea tratteggiata che ne definisce la grandezza del bacino; da una forma randomica di area proporzionalealla portata e colorata in base alle 3 fasce di temperatura; da una linea lunga proporzionalmente quanto il fiume, spessa e colorata in base alle 3 fasce che ne descrivono la portata. La rappresentazione vuole evidenziare la forte correlazione tra una portata elevata di un fiume e la tendenza ad avere una temperatura più alta, rispetto ad un fiume con portata minore. Per questo ho voluto giocare sulla casualità della visione d'insieme, evidenziando la "dimensione", la rilevanza del glifo e il colore della temperatura.
+
+
+
+
+
+
+
